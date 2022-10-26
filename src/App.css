@@ -1,0 +1,15 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.Card {
+	width: 200px;
+	height: 200px;
+	background-color: aqua;
+	display: inline-block;
+	margin: 0 15px;
+}
+.App {
+	margin: 50px;
+}
